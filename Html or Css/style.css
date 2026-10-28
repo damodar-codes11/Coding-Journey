@@ -1,0 +1,28 @@
+
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+p {
+    font-size: 22px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 10px;
+}
