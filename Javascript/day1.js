@@ -1,4 +1,4 @@
-
-console.log("Hello, World!");
-console.log("I am learning JavaScript.");
-console.log("This is my coding journey!");
+console.log("My Name is Damodar");
+console.log("20");
+console.log("MCA");
+console.log("Software Developer");
